@@ -5,3 +5,4 @@ Sera la nueva etapa que finalmente funcionara
 y esta es otra linea para probar funcionalidad de VIM
 y es la prueba
 ahora hablaremos de su vida
+es un ingeniero mecatronico, master phd en biotecnologia y AI
