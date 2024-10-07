@@ -46,3 +46,11 @@ font-size: 20px;
 
 font-family: 'Courier New', Courier, monospace;
 }
+
+#footer{
+
+    background: rgb(122, 122, 223);
+    margin: 0;
+    padding: 0.5em;
+    box-shadow: 0px 2px 50px 0px rgba(0, 0, 0, 0,75);
+}
